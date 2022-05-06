@@ -1,20 +1,14 @@
-<<<<<<< HEAD
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Release](https://img.shields.io/github/release/emacs-grammarly/unofficial-grammarly-language-server.svg?logo=github)](https://github.com/emacs-grammarly/unofficial-grammarly-language-server/releases/latest)
 [![npm](https://img.shields.io/npm/v/@emacs-grammarly/unofficial-grammarly-language-server?logo=npm&color=green)](https://www.npmjs.com/package/@emacs-grammarly/unofficial-grammarly-language-server)
 [![npm-dm](https://img.shields.io/npm/dm/@emacs-grammarly/unofficial-grammarly-language-server.svg)](https://npmcharts.com/compare/@emacs-grammarly/unofficial-grammarly-language-server?minimal=true)
 
-# Grammarly
+# Grammarly for VS Code
 
 [![CI/CD](https://github.com/emacs-grammarly/unofficial-grammarly-language-server/actions/workflows/ci.yaml/badge.svg)](https://github.com/emacs-grammarly/unofficial-grammarly-language-server/actions/workflows/ci.yaml)
 [![dependencies Status](https://status.david-dm.org/gh/emacs-grammarly/unofficial-grammarly-language-server.svg)](https://david-dm.org/emacs-grammarly/unofficial-grammarly-language-server)
 
-> Update: Grammarly API is released, so this project will switch to official API. See https://github.com/znck/grammarly/issues/206
-=======
-# Grammarly for VS Code
-
 A language server implementation on top of Grammarly's SDK.
->>>>>>> bceea86b77903eb5f301a01b01c7c6b7ab081c14
 
 ## Development Setup
 
@@ -52,7 +46,3 @@ This extension is maintained by [Rahul Kadyan](https://github.com/znck). You can
     <img src='https://cdn.jsdelivr.net/gh/znck/sponsors@main/sponsors.png'/>
   </a>
 </p>
-
-<br>
-<br>
-<br>
