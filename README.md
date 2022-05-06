@@ -1,3 +1,6 @@
+> **Notice:** This language server is deprecated; we now move to the newer one,
+[grammarly-language-server](https://github.com/emacs-grammarly/grammarly-language-server).
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Release](https://img.shields.io/github/release/emacs-grammarly/unofficial-grammarly-language-server.svg?logo=github)](https://github.com/emacs-grammarly/unofficial-grammarly-language-server/releases/latest)
 [![npm](https://img.shields.io/npm/v/@emacs-grammarly/unofficial-grammarly-language-server?logo=npm&color=green)](https://www.npmjs.com/package/@emacs-grammarly/unofficial-grammarly-language-server)
