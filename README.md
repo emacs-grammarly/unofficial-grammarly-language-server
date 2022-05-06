@@ -1,4 +1,4 @@
-> **Notice:** This language server is deprecated; we now move to the newer one,
+> ⚠️ **Notice:** This language server is deprecated; we now move to the newer one,
 [grammarly-language-server](https://github.com/emacs-grammarly/grammarly-language-server).
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
