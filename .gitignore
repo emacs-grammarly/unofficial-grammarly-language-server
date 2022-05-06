@@ -1,4 +1,8 @@
 node_modules/
 *.vsix
 dist/
+<<<<<<< HEAD
 /.log
+=======
+.tmp/
+>>>>>>> bceea86b77903eb5f301a01b01c7c6b7ab081c14
